@@ -1,0 +1,4 @@
+Regular garage remote used for building an Android based Garage remote by means of the nrf51 beacon hardware
+from Nordic Semiconductor.
+Android software: GarageControl
+nrf51 software: GarageBase
